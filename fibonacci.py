@@ -8,4 +8,4 @@ def fibonacci(n,f1,f2):
         f1 = f2
         f2 = f3
         i += 1
-fibonacci(6,1,1)
+fibonacci(8,1,1)
